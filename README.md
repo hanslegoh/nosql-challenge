@@ -15,6 +15,6 @@
 
 ### NoSQL_analysis_starter Notebook
 
-- Cell 16 {**Decimal28 to float** conversion} - from [Stack Overflow](https://stackoverflow.com/questions/53351707/how-to-convert-decimal128-to-decimal-in-pandas-dataframe)
+- Cell 16 {**Decimal128 to float** conversion} - from [Stack Overflow](https://stackoverflow.com/questions/53351707/how-to-convert-decimal128-to-decimal-in-pandas-dataframe)
 - Cell 16 {**query setup** discussion} - with [Didi](https://github.com/dumidunipg)
 - Cell 19 {**general pipeline** setup} - from `mongo_mini_project_part3_solution.ipynb`
